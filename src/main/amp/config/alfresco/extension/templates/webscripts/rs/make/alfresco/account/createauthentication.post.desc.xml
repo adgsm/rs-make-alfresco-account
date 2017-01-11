@@ -1,0 +1,9 @@
+<webscript>
+	<shortname>Create Authentication for Alfresco</shortname>
+	<description>Create Authentication for Alfresco</description>
+	<url>/rs/make/account/create</url>
+	<url>/rs/make/account/create.json</url>
+	<format default='json'>extension</format>
+	<authentication>user</authentication>
+	<transaction>required</transaction>
+</webscript>

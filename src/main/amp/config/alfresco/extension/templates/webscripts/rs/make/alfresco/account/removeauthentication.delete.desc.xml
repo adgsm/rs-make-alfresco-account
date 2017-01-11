@@ -1,0 +1,9 @@
+<webscript>
+	<shortname>Remove Authentication for Alfresco</shortname>
+	<description>Remove Authentication for Alfresco</description>
+	<url>/rs/make/account/remove</url>
+	<url>/rs/make/account/remove.json</url>
+	<format default='json'>extension</format>
+	<authentication>user</authentication>
+	<transaction>required</transaction>
+</webscript>

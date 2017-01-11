@@ -1,0 +1,9 @@
+<webscript>
+	<shortname>Get users</shortname>
+	<description>Get users</description>
+	<url>/rs/make/account/get-users</url>
+	<url>/rs/make/account/get-users.json</url>
+	<format default='json'>extension</format>
+	<authentication>user</authentication>
+	<transaction>none</transaction>
+</webscript>

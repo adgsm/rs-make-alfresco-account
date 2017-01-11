@@ -1,0 +1,9 @@
+<webscript>
+	<shortname>Update Authentication for Alfresco</shortname>
+	<description>Update Authentication for Alfresco</description>
+	<url>/rs/make/account/update</url>
+	<url>/rs/make/account/updaate.json</url>
+	<format default='json'>extension</format>
+	<authentication>user</authentication>
+	<transaction>required</transaction>
+</webscript>

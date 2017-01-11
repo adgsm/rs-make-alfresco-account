@@ -1,0 +1,9 @@
+<webscript>
+	<shortname>Authenticate login against Alfresco</shortname>
+	<description>Authenticate login against Alfresco</description>
+	<url>/rs/make/account/authenticate</url>
+	<url>/rs/make/account/authenticate.json</url>
+	<format default='json'>extension</format>
+	<authentication>none</authentication>
+	<transaction>none</transaction>
+</webscript>

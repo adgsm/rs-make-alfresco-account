@@ -1,0 +1,9 @@
+<webscript>
+	<shortname>Reset Authentication for Alfresco</shortname>
+	<description>Reset Authentication for Alfresco</description>
+	<url>/rs/make/account/reset</url>
+	<url>/rs/make/account/reset.json</url>
+	<format default='json'>extension</format>
+	<authentication runas='admin'>none</authentication>
+	<transaction>required</transaction>
+</webscript>
